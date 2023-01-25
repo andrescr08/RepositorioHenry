@@ -1,2 +1,1 @@
-# RepositorioHenry
-Homework Modulo 2 Uso de git
+Este repositorio es un requerimiento del Homework Modulo 2 Uso de Git
